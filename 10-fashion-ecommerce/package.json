@@ -1,0 +1,8 @@
+{
+  "name": "10-fashion-ecommerce",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node serve.js"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "12-insurance-management",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node serve.js"
+  }
+}

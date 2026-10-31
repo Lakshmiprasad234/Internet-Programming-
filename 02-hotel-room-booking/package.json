@@ -1,0 +1,8 @@
+{
+  "name": "02-hotel-room-booking",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
