@@ -1,0 +1,8 @@
+{
+  "name": "25-roadside-vehicle-assistance",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node serve.js"
+  }
+}

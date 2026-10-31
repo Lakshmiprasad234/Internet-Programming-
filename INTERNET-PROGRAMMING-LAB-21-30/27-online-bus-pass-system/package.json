@@ -1,0 +1,8 @@
+{
+  "name": "27-online-bus-pass-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node serve.js"
+  }
+}

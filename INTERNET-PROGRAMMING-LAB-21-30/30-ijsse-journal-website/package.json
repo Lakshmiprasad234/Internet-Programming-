@@ -1,0 +1,8 @@
+{
+  "name": "30-ijsse-journal-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
