@@ -1,0 +1,8 @@
+{
+  "name": "01-library-management-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
